@@ -15,7 +15,7 @@ console.log(x++) // post increment
 console.log(x--) // post decrement
 console.log(++x) // pre increment
 console.log(x--) // pre decrement
-console.log(243243%2) it helps to check ODD & Even
+console.log(243243%2) // it helps to check ODD & Even
 
 
 // 2. Assignment Operators
