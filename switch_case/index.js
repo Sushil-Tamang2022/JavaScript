@@ -1,0 +1,31 @@
+// Switch Case(Statement)
+// Switch case => It is a conditional construct used to execute different block of code based on the value of an expression.
+
+let day = 2;
+switch (day) {
+    case 1:
+        console.log("Sunday")
+        break;
+    case 2:
+        console.log("Monday")
+        break;
+    case 3:
+        console.log("Tuesday")
+        break;
+    case 4:
+        console.log("Wednesday")
+        break;
+    case 5:
+        console.log("Thursday")
+        break;
+    case 6:
+        console.log("Friday")
+        break;
+    case 7:
+        console.log("Saturday")
+        break;
+
+    default:
+        console.log("Invalid Options!")
+        break;
+}
